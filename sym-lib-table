@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HSL_Adapter")(type "KiCad")(uri "${KIPRJMOD}/KG_Disp_Adapter.kicad_sym")(options "")(descr ""))
+)
